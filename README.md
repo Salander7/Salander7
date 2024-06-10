@@ -49,14 +49,6 @@ Utilizing UIKit and VIPER architecture, this online shopping iOS app seamlessly 
 
 ![iny](https://github.com/Salander7/Salander7/assets/136610570/b7194e8c-f9f0-4114-af56-34a082f8fe29)
 
-## GHFollowers
-
-![Untitled-1](https://github.com/Salander7/Salander7/assets/136610570/188b7e51-4254-466d-87d8-6644f979a583)
-
-An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
-
-![0](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/91d922d4-9463-477e-a747-663e3e33c727)
-
 # Sarus
 
 ![Untitled-2](https://github.com/Salander7/Salander7/assets/136610570/f91b3b63-0df9-476b-b17c-facecaa7b4d6)
@@ -65,7 +57,13 @@ Sarus is a mobile application designed for the exploration of countries and disc
 
 ![Untitled-1](https://github.com/Salander7/Salander7/assets/136610570/948f7a47-9c7e-48d4-a59d-b0160c9aae2a)
 
+## GHFollowers
 
+![Untitled-1](https://github.com/Salander7/Salander7/assets/136610570/188b7e51-4254-466d-87d8-6644f979a583)
+
+An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
+
+![0](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/91d922d4-9463-477e-a747-663e3e33c727)
 
 ## Chatty
 
