@@ -47,7 +47,7 @@ BitWave is a comprehensive app, built with SwiftUI, designed to track, analyze, 
 
 Built with UIKit, this iOS app mimics the functionalities of Spotify by utilizing the Spotify Web API to showcase and play albums, artists, songs, and playlists.
 
-![spotify (1)](https://github.com/Salander7/Salander7/assets/136610570/597cf38a-b45d-437d-a6e3-cc1a94e7708f)
+![spotiify](https://github.com/user-attachments/assets/f018f0a5-5c3d-4e92-9e92-cc8152639d4e)
 
 ## Iny
 
@@ -63,7 +63,7 @@ Utilizing UIKit and VIPER architecture, this online shopping iOS app seamlessly 
 
 Sarus is a mobile application designed for the exploration of countries and discovering top-rated restaurants within them. It was developed as a learning project, utilizing SwiftUI with guidance from Let's Build That App courses.
 
-![Untitled-1](https://github.com/Salander7/Salander7/assets/136610570/948f7a47-9c7e-48d4-a59d-b0160c9aae2a)
+![sarus](https://github.com/user-attachments/assets/b7c2a0f2-b40c-473e-adf6-4fec20582fd7)
 
 ## GHFollowers
 
