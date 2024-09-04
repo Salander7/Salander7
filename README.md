@@ -31,7 +31,15 @@ Crafting innovative iOS experiences is my passion. I thrive on designing apps th
 
 Streamsync is an app that hooks you up with info and trailers for all sorts of movies, powered by the TMDB API and crafted with UIKit!
 
-![streamsynch](https://github.com/Salander7/Salander7/assets/136610570/be227d71-3774-4dd3-a024-5f2e4dbdf865)
+![327203820-be227d71-3774-4dd3-a024-5f2e4dbdf865](https://github.com/user-attachments/assets/c448cc27-7282-40c9-b13f-7f2966ac3d66)
+
+## BitWave
+
+![bw](https://github.com/user-attachments/assets/f570b324-1b02-4bb8-b69e-66753094b50b)
+
+BitWave is a comprehensive app, built with SwiftUI, designed to track, analyze, and manage your cryptocurrency investments with real-time updates and intuitive insights.
+
+![yo](https://github.com/user-attachments/assets/cc953c07-c092-460b-ae6c-62a73b793f6d)
 
 ## Spotify
 
@@ -64,12 +72,4 @@ Sarus is a mobile application designed for the exploration of countries and disc
 An application about GitHub user profile, followers and favorites. Developed by using GitHub API for learning purposes. Built with UIKit.
 
 ![0](https://github.com/DDilbilir0700/GHFollowers/assets/136610570/91d922d4-9463-477e-a747-663e3e33c727)
-
-## Chatty
-
-![chatty](https://github.com/Salander7/Salander7/assets/136610570/64f12d0f-ddfc-4f3d-8b5e-31c39d491955)
-
-Chatty is a simple messaging app crafted with Firebase and UIKit, offering a seamless communication experience.
-
-![Chatty (1)](https://github.com/Salander7/Salander7/assets/136610570/014545db-99be-4d01-a4c3-a84bc7ce8026)
 
