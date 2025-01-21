@@ -24,6 +24,13 @@ Crafting innovative iOS experiences is my passion. I thrive on designing apps th
 
 ### Some of the apps I made ⤵
 
+## DeNews
+
+![Image](https://github.com/user-attachments/assets/ff7973c7-f4cf-4171-bcd9-869aa68f413a)
+
+DeNews is a daily news app built with SwiftUI that keeps you updated with articles across categories like General, Entertainment, Sports, Health, Science, and Technology, powered by the News API, and crafted with SwiftData and Swift's new Observation system.
+
+![Image](https://github.com/user-attachments/assets/78cf21a9-1c28-46d3-9866-7d9949e52f6f)
 
 ## StreamSync
 
